@@ -1,0 +1,32 @@
+# NAME
+
+TOC - TOC of The Perl Guts Book
+
+# Table of Contents
+
+## 第一部 Perlguts
+
+* Perl言語仕様
+* Perlデータ構造
+* パッケージと型グロブ
+* ガベージコレクション
+* Perlの構文
+* 構文解析
+* Opcode & PPcode
+* 評価器（仮想マシン）
+* ブロックスタック
+* サブルーチン呼び出し
+* インタプリタスレッド
+
+## 第二部 Perl/XS (eXternal Subroutines)
+
+* XS基礎知識
+* Scalar-List-Utils
+* DBI
+* Coro
+* Mouse
+
+## 第三部 Perl Hacks
+
+
+
