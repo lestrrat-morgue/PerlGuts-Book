@@ -1,0 +1,17 @@
+# NAME
+
+PerlGuts Book - Perl 5.12? を丸裸にする（予定）
+
+# SYNOPSIS
+
+    __gfx__: XS本書きたいなー。
+    lestrrat: @__gfx__ ニッチすぎるおw
+    lestrrat: @__gfx__ Perlの仕組みを全部解説した本ならちょっと読みたいかも・・・（全1000ページくらい）
+    lestrrat: @__gfx__ 本気で書いたら英語版も出すべきだよね。俺翻訳するする
+    __gfx__: 正規表現エンジン以外ならわりと解説できますよ！
+    lestrrat: @__gfx__ つか、Perl Gutsなら調べるついでに俺も書きたい。おいらは今年書けないから来年あたりに共著やろうよｗ
+    __gfx__: @lestrrat えー、僕は今年のほうが暇なんですが（たぶん）！
+    lestrrat: @__gfx__ そうきたかｗ とりあえず売り込みように目次作るといいかも
+    __gfx__: @lestrrat なるほど！じゃあとりあえず目次考えますね！
+    lestrrat: @__gfx__ http://github.com/lestrrat/PerlGuts-Book Markdownでファイルつっこんでくのでどうでしょうかね
+    __gfx__: @lestrrat うはｗ もうリポジトリができてるｗ
