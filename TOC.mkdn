@@ -17,7 +17,7 @@ TOC - TOC of The Perl Guts Book
 * パッケージと型グロブ (GV*)
 * マジック (MAGIC*)
 
-## 第二部 Perlデータ型
+## 第二部 Perlインタプリタ
 
 * Bモジュール
 * 構文木と評価器
