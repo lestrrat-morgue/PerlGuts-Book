@@ -4,10 +4,11 @@ TOC - TOC of The Perl Guts Book
 
 # Table of Contents
 
-## 第一部 Perlインタプリタ
+## 第一部 Perlデータ型
 
 * Perl言語仕様一巡り
 * データ構造とメモリアロケーション
+* ガベージコレクション
 * スカラー値 (SV*)
 * 配列値 (AV*)
 * ハッシュ値 (HV*)
@@ -15,22 +16,20 @@ TOC - TOC of The Perl Guts Book
 * PerlIO(IO* & PerlIO*)
 * パッケージと型グロブ (GV*)
 * マジック (MAGIC*)
-* ガベージコレクション
-* Opcode/構文木
+
+## 第二部 Perlデータ型
+
+* Bモジュール
+* 構文木と評価器
 * PPcode
-* 評価器（仮想マシン）
+* 引数スタック
 * ブロックスタック
+* 例外機構
 * サブルーチン呼び出し
 * インタプリタスレッド
 * 構文解析
 * 字句解析
-
-## 第二部 Perl Hacks
-
-* perlapiについて
-* ビルドオプションについて
-* PL_check/PL_ppaddr
-* PL_keyword_plugin
+* インタプリタフック(PL_check/PL_ppaddr/PL_keyword_plugin)
 
 ## 第三部 Perl/XSの実際
 
@@ -41,3 +40,9 @@ TOC - TOC of The Perl Guts Book
 * Coro
 * Mouse
 
+## 第四部 APIリファレンス
+
+* perlapi
+* perlapio
+* perlxs
+* ビルドオプション
