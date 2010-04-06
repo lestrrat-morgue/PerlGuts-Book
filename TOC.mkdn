@@ -1,8 +1,10 @@
-# NAME
+# 目次
 
-TOC - TOC of The Perl Guts Book
+## はじめに
 
-# Table of Contents
+* 誰のための本なのか
+* 必要な知識
+* この本の読み方
 
 ## 第一部 Perlデータ型
 
