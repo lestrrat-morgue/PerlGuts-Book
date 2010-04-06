@@ -28,5 +28,12 @@ TOC - TOC of The Perl Guts Book
 
 ## 第三部 Perl Hacks
 
+## All About Data Types
 
+* SV/AV/HVとかのライフサイクル
+* MAGIC
+
+## Perl API
+
+* perldoc perlapiを解説
 
