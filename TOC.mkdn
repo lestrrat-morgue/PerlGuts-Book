@@ -4,36 +4,40 @@ TOC - TOC of The Perl Guts Book
 
 # Table of Contents
 
-## 第一部 Perlguts
+## 第一部 Perlインタプリタ
 
-* Perl言語仕様
-* Perlデータ構造
-* パッケージと型グロブ
+* Perl言語仕様一巡り
+* データ構造とメモリアロケーション
+* スカラー値 (SV*)
+* 配列値 (AV*)
+* ハッシュ値 (HV*)
+* サブルーチン (CV*)
+* PerlIO(IO* & PerlIO*)
+* パッケージと型グロブ (GV*)
+* マジック (MAGIC*)
 * ガベージコレクション
-* Perlの構文
-* 構文解析
-* Opcode & PPcode
+* Opcode/構文木
+* PPcode
 * 評価器（仮想マシン）
 * ブロックスタック
 * サブルーチン呼び出し
 * インタプリタスレッド
+* 構文解析
+* 字句解析
 
-## 第二部 Perl/XS (eXternal Subroutines)
+## 第二部 Perl Hacks
 
-* XS基礎知識
+* perlapiについて
+* ビルドオプションについて
+* PL_check/PL_ppaddr
+* PL_keyword_plugin
+
+## 第三部 Perl/XSの実際
+
+* XSの基礎知識と作法
 * Scalar-List-Utils
-* DBI
+* DBI/DBD
+* autobox
 * Coro
 * Mouse
-
-## 第三部 Perl Hacks
-
-## All About Data Types
-
-* SV/AV/HVとかのライフサイクル
-* MAGIC
-
-## Perl API
-
-* perldoc perlapiを解説
 
